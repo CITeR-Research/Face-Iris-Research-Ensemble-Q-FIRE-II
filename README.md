@@ -1,13 +1,14 @@
 # Face-Iris-Research-Ensemble-Q-FIRE-II
 
 Contact:  Stephanie Schuckers, sschucke@clarkson.edu 
+
 Visible, NIR, and LWIR image sequences collected at varying distances and quality. Collected at Clarkson University. Funded by the CITeR and National Science Foundation. Please contact citer@clarkson.edu and indicate the specific dataset. Please see links below for additional details.
 
 This biometric dataset collection contains data of three biometric modalities and multiple sensors:
-•	NIR Face and Iris
-•	Visible Face
-•	LWIR Face
-•	Voice Recording
+--NIR Face and Iris
+--Visible Face
+--LWIR Face
+--Voice Recording
 
 The purpose of this data collection protocol is to develop a multi-biometric database which includes iris and face quality images, along with voice for varying distances, a range of quality, and natural behavior.
 

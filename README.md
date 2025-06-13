@@ -1,8 +1,8 @@
 # Face-Iris-Research-Ensemble-Q-FIRE-II
-
+Please contact citer@clarkson.edu and indicate the specific dataset.
 Contact:  Stephanie Schuckers, sschucke@clarkson.edu 
 
-Visible, NIR, and LWIR image sequences collected at varying distances and quality. Collected at Clarkson University. Funded by the CITeR and National Science Foundation. Please contact citer@clarkson.edu and indicate the specific dataset. Please see links below for additional details.
+Visible, NIR, and LWIR image sequences collected at varying distances and quality. Collected at Clarkson University. Funded by the CITeR and National Science Foundation.  Please see links below for additional details.
 
 This biometric dataset collection contains data of three biometric modalities and multiple sensors:
 --NIR Face and Iris

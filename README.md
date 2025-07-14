@@ -1,4 +1,6 @@
 # Face-Iris-Research-Ensemble-Q-FIRE-II
+Available to CITeR members only under the CITeR Database Release Agreement.  
+
 Please contact citer@clarkson.edu and indicate the specific dataset.
 
 Technical Contact:  Stephanie Schuckers, sschucke@clarkson.edu 

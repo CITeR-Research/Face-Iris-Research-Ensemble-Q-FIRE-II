@@ -24,7 +24,7 @@ The second scenario is non-cooperative, where the subject is allowed to act more
 
 The dataset includes 84 subjects, with 44 of the subjects returning for a second visit. The data for each subject includes visible face videos, LWIR (thermal) face videos, and iris/face videos (saved as still frames).
 
-Biometric	Device / # of Subjects / # of Files per Subject
+Modality: Biometric	Device / # of Subjects / # of Files per Subject
 
 Iris/Face:	Dalsa 4M30 Infrared Camera / 84 / 19,356 still frames (average)
 
